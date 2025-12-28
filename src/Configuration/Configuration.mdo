@@ -39,5 +39,8 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Проекты</catalogs>
+  <documents>Document.РеализацияТовара</documents>
+  <accumulationRegisters>AccumulationRegister.РасчетыСКонтрагентами</accumulationRegisters>
 </mdclass:Configuration>

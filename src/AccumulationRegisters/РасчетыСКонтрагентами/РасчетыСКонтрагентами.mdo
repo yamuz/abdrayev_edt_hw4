@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8676cb88-549e-4897-bb7a-bc22bda6501a">
+  <producedTypes>
+    <selectionType typeId="7c8140f1-a275-4059-8be6-dc890f13ea82" valueTypeId="f95c1ddb-e005-4af8-b7d8-3eb473de76f4"/>
+    <listType typeId="0ccc209b-9ea5-40e9-bf74-1ecb45ffd787" valueTypeId="80cb3ede-336c-4c37-836f-44913ba1cfdb"/>
+    <managerType typeId="80271b93-fb09-42fe-895b-5f9d669ce061" valueTypeId="8326b40b-cb02-4484-a3fe-8685555f1e59"/>
+    <recordSetType typeId="1ff408e1-4d31-4f35-8652-de26a8bc39d2" valueTypeId="7e971c7b-3808-4856-95d6-43a16b5d43b8"/>
+    <recordKeyType typeId="8d69f8f5-5676-4b7c-919d-78b52159076f" valueTypeId="3231a3f8-171a-4187-a11d-e7c03ac885e1"/>
+    <recordType typeId="21849c8d-6c41-400b-95f9-ad2b3f778a9f" valueTypeId="c7358350-567d-4486-a35d-5604dc335bbd"/>
+  </producedTypes>
+  <name>РасчетыСКонтрагентами</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расчеты с контрагентами</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+</mdclass:AccumulationRegister>
