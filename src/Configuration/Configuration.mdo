@@ -43,6 +43,6 @@
   <catalogs>Catalog.Проекты</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
   <documents>Document.РеализацияТовара</documents>
-  <accumulationRegisters>AccumulationRegister.ТоварыНаСкладах</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.РасчетыСКонтрагентами</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ТоварыНаСкладах</accumulationRegisters>
 </mdclass:Configuration>
