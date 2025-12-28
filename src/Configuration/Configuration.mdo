@@ -40,4 +40,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Проекты</catalogs>
+  <documents>Document.ПриходнаяНакладная</documents>
+  <accumulationRegisters>AccumulationRegister.ТоварыНаСкладах</accumulationRegisters>
 </mdclass:Configuration>
